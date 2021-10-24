@@ -1,2 +1,2 @@
 # atcoder
-solution to atcoder beginner contests
+solution to nice problems from atcoder beginner contests ( ABCs )
